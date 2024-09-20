@@ -13,13 +13,20 @@
 
 
 <section>
-	<MyButton name="Button" type="regular" size="md"/>
+	<MyButton name="Input Text" type="flat" size="md"/>
 	<br>
 	<br>
-	<MyButton name="Button" type="flat" size="md"/>
+	<MyButton name="Input Text" type="regular" size="md"/>
 	<br>
 	<br>
-	<MyButton name="Button" type="disabled" size="md"/>
+	<MyButton name="Input Text" type="fourth" size="md"/>
+	<br>
+	<br>
+	<MyButton name="Input Text" type="disabled" size="md"/>
+	<br>
+	<br>
+	<MyButton name="Input Text" type="fifth" size="md"/>
+	
 
 </section>
 
